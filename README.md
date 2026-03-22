@@ -1,3 +1,4 @@
+```plaintext
 项目根目录/
 │
 ├── data/                           # 数据目录
@@ -37,3 +38,4 @@
 ├── requirements.txt
 ├── README.md                       # 项目说明
 └── main.py                         # 主程序入口
+```
